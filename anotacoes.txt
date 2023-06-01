@@ -1,0 +1,3 @@
+justifyContent: "space-evenly", //espaçamento igual a todos
+
+flexDirection: "row", //deixa tudo retinho
